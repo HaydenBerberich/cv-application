@@ -1,0 +1,33 @@
+.paper {
+  background-color: white;
+  width: 8.5in;
+  min-height: 11in;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+  gap: 10px;
+}
+
+input {
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  width: 75px;
+}
+
+.content {
+  padding: 15px;
+}
